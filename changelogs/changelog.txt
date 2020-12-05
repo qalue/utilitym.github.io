@@ -1,0 +1,16 @@
+v0.1
+- General improvements to the overall look of the website.
+- Home.html boxes with information.
+- Section information.
+- Working navigation bar on all pages currently available.
+
+v0.2
+- 404 if JS is disabled / blocked for index.html.
+- index.html redirects to home.html.
+- Added a status page integration to the website.
+- Removal of <href> changing to buttons for a better look.
+
+v0.3
+- Maintenance page.
+- Maintenance logo and banner.
+- 404 Page for false links (replacement for old 404)

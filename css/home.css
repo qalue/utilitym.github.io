@@ -1,0 +1,102 @@
+body {
+    background-color: #222222;
+}
+
+button {
+    background-color: #333333;
+    border: none;
+    outline:none;
+    cursor: pointer;
+    font-size: 1.25em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 45px;
+}
+
+.TextLogo {
+    position: absolute;
+}
+
+.logo1sizealign {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    padding-left: 10px;
+    margin: auto 0;
+}
+
+.header {
+    background-color: #333333;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.ul1 {
+    text-decoration: none;
+    margin: 50px 50px;
+    padding: 0;
+    color: #ffffff;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list1 {
+    text-decoration: none;
+    color: white;
+}
+
+.boxinfo1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 125px;
+    color: #ffffff;
+    width: 450px;
+}
+
+.boxinfo1-bg {
+    padding: 10px;
+    margin: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 200px;
+    border-radius: 25px;
+    background-color: #2f2f2f;
+}
+
+.itemcontainer1 {
+    padding-left: 46px;
+    padding-right: 31px;
+}
+
+.item1 {
+    display: inline-block;
+}
+
+.item2 {
+    display: inline-block;
+}
+
+.item3 {
+    display: inline-block;
+}
+
+.item4 {
+    display: inline-block;
+}
