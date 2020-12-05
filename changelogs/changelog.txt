@@ -14,3 +14,4 @@ v0.3
 - Maintenance page.
 - Maintenance logo and banner.
 - 404 Page for false links (replacement for old 404)
+- Removed .html at end of redirection links and normal ones.
