@@ -1,0 +1,49 @@
+button {
+    background-color: #202020;
+    border: none;
+    outline:none;
+    cursor: pointer;
+    font-size: 1.25em;
+}
+
+ul { 
+    padding: 0; 
+    width: 600px;
+    text-align: center;
+}
+
+li { 
+    padding: 15px 0;
+}
+
+.centeredtextandlogo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textlogo {
+    width: 25em;
+    position: center;
+    margin: 0;
+    position: absolute;
+    top: 25em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textsize {
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.textsize2 {
+    margin: 0;
+    position: absolute;
+    top: 10em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
